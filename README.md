@@ -27,6 +27,10 @@ Pandas
 
 `pip install pandas`
 
+Scipy
+
+`pip install scipy`
+
 Scikit-learn (versjon 0.18): 
 
 `pip install -U scikit-learn`
